@@ -157,7 +157,7 @@ for i in range(len(buttons)):
         text = buttons[i][j]
 
         bg_color = "#f0f0f0"
-        fg_color = "marron"
+        fg_color = "gray"
 
         if text == "C":
             bg_color = "orange"
